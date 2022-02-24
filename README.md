@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on all sorts of open-source android projects
 - 📫 How to reach me ramishaaa27@gmail.com
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 </br>
 <h2 align="Center">Github Profile: </h2>
 <p align="Center" >
