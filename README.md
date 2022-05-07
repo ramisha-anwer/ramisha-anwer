@@ -4,8 +4,8 @@
 
 <h2>About me</h2>
 
-I am Ramisha Anwer,currently a Second year Undergraduate student pursuing Bachelors in Software Engineering from NUST with skills in developing and deploying application in flutter.
-Skilled in Android Studio,Java,Data Structures,Flutter,Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
+I am Ramisha Anwer, currently a Second year Undergraduate student pursuing Bachelors in Software Engineering from NUST with skills in developing and deploying application in Flutter.
+Skilled in Android Studio, Java, Data Structures, Flutter, Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
 
 
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
