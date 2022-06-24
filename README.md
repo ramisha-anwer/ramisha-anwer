@@ -36,7 +36,7 @@ Languages <br>
 
 ---
 
-[![Ramisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramisha-anwer&theme=react-dark)](https://github.com/pnkr01/github-readme-activity-graph)
+<!--[![Ramisha's github activity graph](https://activity-graph.herokuapp.com/graph?username=ramisha-anwer&theme=react-dark)](https://github.com/pnkr01/github-readme-activity-graph)-->
 
 ---
 
