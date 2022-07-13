@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 
-I am Ramisha Anwer, currently a Second year Undergraduate student pursuing Bachelors in Software Engineering from NUST with skills in developing and deploying application in Flutter.
+I am Ramisha Anwer, currently a Second year Undergraduate student pursuing Bachelors in Software Engineering from NUST with skills in developing and deploying web application in ReactJs and NodeJs.
 Skilled in Android Studio, Java, Data Structures, Flutter, Dart. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. <br><br>
 
 
@@ -26,8 +26,11 @@ Skilled in Android Studio, Java, Data Structures, Flutter, Dart. I am very keen 
 <h2>🛠Tech Stack</h2>
 
 Languages <br> 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
